@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**Recollectionsvaried/Recollectionsvaried** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Online shop with a curated selection of luxury and vintage items. A top notch selection of pieces from brands such as Tiffany & Co, Chanel, Louis Vuitton and beyond.
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on expanding and trading my collection.
+- 🌱 I’m currently learning .mid century modern accessories .
+- 👯 I’m looking to collaborate on designing my online shop 
+- 🤔 I’m looking for help with my online shop...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
